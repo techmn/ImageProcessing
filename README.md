@@ -3,11 +3,11 @@ Basic Image Processing using C#
 
 This application includes following funtionalities
 1. Color Operations
-    > RGB to Grayscale
-    > Negative
-    > Sepia
+    a. RGB to Grayscale
+    b. Negative
+    c. Sepia
 2. Image Filtering
-    > Lowpass Filter (Blur)
-    > Highpass Filter (Edge Detection)
+    a. Lowpass Filter (Blur)
+    b. Highpass Filter (Edge Detection)
 3. Image Thresholding
 4. Color Tint
